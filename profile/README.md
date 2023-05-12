@@ -35,7 +35,7 @@ EFREI 3D is a student-run association located at EFREI Paris that brings togethe
     &emsp;
     <img align="center" alt="SolidWorks" width="32px" src="https://play-lh.googleusercontent.com/xFXqt-xHyKht3CGi-kVR6szgoBxgQNr03XYG7rHyYFMVXGlrQrW99E84tOfFbSRrRQ" />
     &nbsp;
-    <img align="center" alt="Unreal Engine" width="26px" src="https://www.citypng.com/public/uploads/preview/unreal-engine-white-logo-png-11662377738plyxyz8g4p.png" />
+    <img align="center" alt="Unreal Engine" width="26px" src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" />
     &emsp;
     <img align="center" alt="Adobe Creative Suite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg/1200px-Adobe_Creative_Cloud_rainbow_icon.svg.png" />
     &emsp;
