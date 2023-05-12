@@ -23,7 +23,7 @@ EFREI 3D is a student-run association located at EFREI Paris that brings togethe
     </a>
      &emsp;
     <a href="https://www.helloasso.com/associations/efrei-3d/" target="_blank">
-        <img align="center" alt="HelloAsso" width="26px" src="https://asso.compta.com/wp-content/uploads/2019/10/Logo-vertical-bleu.png " />
+        <img align="center" alt="HelloAsso" width="30px" src="https://asso.compta.com/wp-content/uploads/2019/10/Logo-vertical-bleu.png " />
     </a>
 </p>
 
