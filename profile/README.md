@@ -2,7 +2,7 @@
 
 <h3> How are we? </h3>
 
-EFREI 3D is a student-run association located at EFREI Paris that brings together beginners and experienced creators to explore 3D modeling, 3D printing, video game design, short film making, and virtual reality. Using tools like Blender, SolidWorks, Unreal Engine, the Adobe Suite, and VR technology, our members bring their ideas to life and share their creations with the community. Join us to unleash your creativity and inspire others.
+EFREI 3D is a student-run association located at EFREI Paris that brings together beginners and experienced creators to explore 3D modeling, 3D printing, video game design, short film making, and virtual reality. Using tools like Blender, SolidWorks, Unreal Engine, the Adobe Suite, Davinci Resolve and VR technology, our members bring their ideas to life and share their creations with the community. Join us to unleash your creativity and inspire others.
 
 <h3>Connect with us:</h3>
 <p>
