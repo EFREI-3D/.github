@@ -13,19 +13,19 @@ EFREI 3D is a student-run association located at EFREI Paris that brings togethe
 <p>
      
     <a href="https://www.efrei3d.fr/" target="_blank">
-        <img align="center" alt="Website" width="26px" src="./pictures/website.png" />
+        <img align="center" alt="Website" width="36px" src="./pictures/website.png" />
     </a>
      
     <a href="https://www.linkedin.com/company/efrei-3d/" target="_blank">
-        <img align="center" alt="Constantin Dragan | LinkedIn" width="26px" src="./pictures/linkedin.png" />
+        <img align="center" alt="LinkedIn" width="36px" src="./pictures/linkedin.png" />
     </a>
      
     <a href="https://www.instagram.com/efrei3d/" target="_blank">
-        <img align="center" alt="Instagram" width="26px" src="./pictures/instagram.png" />
+        <img align="center" alt="Instagram" width="36px" src="./pictures/instagram.png" />
     </a>
       
     <a href="https://www.helloasso.com/associations/efrei-3d/" target="_blank">
-        <img align="center" alt="HelloAsso" width="26px" src="./pictures/helloasso.png" />
+        <img align="center" alt="HelloAsso" width="36px" src="./pictures/helloasso.png" />
     </a>
 </p>
 
@@ -33,19 +33,19 @@ EFREI 3D is a student-run association located at EFREI Paris that brings togethe
 <h3>Quels outils utilisons nous ? What tools do we use?</h3>
 <p>
      
-    <img align="center" alt="Blender" width="26px" src="./pictures/blender.png" />
+    <img align="center" alt="Blender" width="36px" src="./pictures/blender.png" />
      
-    <img align="center" alt="SolidWorks" width="32px" src="./pictures/solidworks.png" />
+    <img align="center" alt="SolidWorks" width="36px" src="./pictures/solidworks.png" />
      
-    <img align="center" alt="Autodesk Fusion360" width="35px" src="./pictures/autodesk-fusion360.png" />
+    <img align="center" alt="Autodesk Fusion360" width="36px" src="./pictures/autodesk-fusion360.png" />
      
-    <img align="center" alt="Unreal Engine" width="46px" src="./pictures/unreal-engine.png" />
+    <img align="center" alt="Unreal Engine" width="36px" src="./pictures/unreal-engine.png" />
      
-    <img align="center" alt="Adobe Creative Suite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg/1200px-Adobe_Creative_Cloud_rainbow_icon.svg.png" />
+    <img align="center" alt="Adobe Creative Suite" width="36px" src="./pictures/adobe-creative-suite.png" />
      
-    <img align="center" alt="Davinci Resolve" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" />
+    <img align="center" alt="Davinci Resolve" width="36px" src="./pictures/davinci-resolve.png" />
      
-    <img align="center" alt="FL Studio" width="35px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/docs/fl-studio.png" />
+    <img align="center" alt="FL Studio" width="36px" src="./pictures/fl-studio.png" />
 </p>
 <br>
 <br>
