@@ -28,16 +28,20 @@ EFREI 3D is a student-run association located at EFREI Paris that brings togethe
 </p>
 
 
-<h3>What tools do we use?</h3>
+<h3>Quels outils utilisons nous ? What tools do we use?</h3>
 <p>
     &emsp;
     <img align="center" alt="Blender" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" />
     &emsp;
     <img align="center" alt="SolidWorks" width="32px" src="https://play-lh.googleusercontent.com/xFXqt-xHyKht3CGi-kVR6szgoBxgQNr03XYG7rHyYFMVXGlrQrW99E84tOfFbSRrRQ" />
+    &emsp;
+    <img align="center" alt="Autodesk Fusion360" width="35px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/autodesk_fusion_macos_bigsur_icon_190367.png" />
     &nbsp;
-    <img align="center" alt="Unreal Engine" width="35px" src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" />
+    <img align="center" alt="Unreal Engine" width="46px" src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" />
     &emsp;
     <img align="center" alt="Adobe Creative Suite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg/1200px-Adobe_Creative_Cloud_rainbow_icon.svg.png" />
+    &emsp;
+    <img align="center" alt="Davinci Resolve" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" />
     &emsp;
     <img align="center" alt="FL Studio" width="35px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/docs/fl-studio.png" />
 </p>
