@@ -1,5 +1,5 @@
-<h2> Coucou, Bienvenue sur la page GitHub d'EFREI 3D ! 👋 <img align="center" alt"French Flag" width="22px" src="./pictures/fr-flag.png"/> </h2>
-<h2> Hi there, Welcome to EFREI 3D's GitHub page! 👋 <img align="center" alt"UK Flag" width="22px" src="./pictures/uk-flag.png"/> </h2>
+<h2> Coucou, Bienvenue sur la page GitHub d'EFREI 3D ! 👋 <img align="center" alt"French Flag" width="22px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/fr-flag.png"/> </h2>
+<h2> Hi there, Welcome to EFREI 3D's GitHub page! 👋 <img align="center" alt"UK Flag" width="22px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/uk-flag.png"/> </h2>
 
 
 <h3> Qui sommes nous ? Who are we? </h3>
@@ -13,19 +13,19 @@ EFREI 3D is a student-run association located at EFREI Paris that brings togethe
 <p>
      
     <a href="https://www.efrei3d.fr/" target="_blank">
-        <img align="center" alt="Website" width="36px" src="./pictures/website.png" />
+        <img align="center" alt="Website" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/website.png" />
     </a>
      
     <a href="https://www.linkedin.com/company/efrei-3d/" target="_blank">
-        <img align="center" alt="LinkedIn" width="36px" src="./pictures/linkedin.png" />
+        <img align="center" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/linkedin.png" />
     </a>
      
     <a href="https://www.instagram.com/efrei3d/" target="_blank">
-        <img align="center" alt="Instagram" width="36px" src="./pictures/instagram.png" />
+        <img align="center" alt="Instagram" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/instagram.png" />
     </a>
       
     <a href="https://www.helloasso.com/associations/efrei-3d/" target="_blank">
-        <img align="center" alt="HelloAsso" width="36px" src="./pictures/helloasso.png" />
+        <img align="center" alt="HelloAsso" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/helloasso.png" />
     </a>
 </p>
 
@@ -33,19 +33,19 @@ EFREI 3D is a student-run association located at EFREI Paris that brings togethe
 <h3>Quels outils utilisons nous ? What tools do we use?</h3>
 <p>
      
-    <img align="center" alt="Blender" width="36px" src="./pictures/blender.png" />
+    <img align="center" alt="Blender" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/blender.png" />
      
-    <img align="center" alt="SolidWorks" width="36px" src="./pictures/solidworks.png" />
+    <img align="center" alt="SolidWorks" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/solidworks.png" />
      
-    <img align="center" alt="Autodesk Fusion360" width="36px" src="./pictures/autodesk-fusion360.png" />
+    <img align="center" alt="Autodesk Fusion360" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/autodesk-fusion360.png" />
      
-    <img align="center" alt="Unreal Engine" width="36px" src="./pictures/unreal-engine.png" />
+    <img align="center" alt="Unreal Engine" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/unreal-engine.png" />
      
-    <img align="center" alt="Adobe Creative Suite" width="36px" src="./pictures/adobe-creative-suite.png" />
+    <img align="center" alt="Adobe Creative Suite" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/adobe-creative-suite.png" />
      
-    <img align="center" alt="Davinci Resolve" width="36px" src="./pictures/davinci-resolve.png" />
+    <img align="center" alt="Davinci Resolve" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/davinci-resolve.png" />
      
-    <img align="center" alt="FL Studio" width="36px" src="./pictures/fl-studio.png" />
+    <img align="center" alt="FL Studio" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/fl-studio.png" />
 </p>
 <br>
 <br>
