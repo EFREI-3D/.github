@@ -22,8 +22,8 @@ EFREI 3D is a student-run association located at EFREI Paris that brings togethe
         <img align="center" alt="Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />
     </a>
      &emsp;
-    <a href="https://www.instagram.com/efrei3d/" target="_blank">
-        <img align="center" alt="HelloAsso" width="26px" src="https://github.com/EFREI-3D/.github/assets/93822773/377b37a1-7f8e-4a7e-be0a-1a359b7faa90" />
+    <a href="https://www.helloasso.com/associations/efrei-3d/" target="_blank">
+        <img align="center" alt="HelloAsso" width="26px" src="https://asso.compta.com/wp-content/uploads/2019/10/Logo-vertical-bleu.png " />
     </a>
 </p>
 
