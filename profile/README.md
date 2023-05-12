@@ -1,4 +1,5 @@
-<h2> Hi there, Welcome to EFREI 3D's GitHub page! 👋 </h2>
+<h2> Coucou, Bienvenue sur la page GitHub d'EFREI 3D ! 👋 <img align="center" alt"French Flag" width="22px" src="https://images.emojiterra.com/twitter/v14.0/128px/1f1eb-1f1f7.png"/> </h2>
+<h2> Hi there, Welcome to EFREI 3D's GitHub page! 👋 <img align="center" alt"UK Flag" width="22px" src="https://github.com/EFREI-3D/.github/assets/93822773/a7ca78db-3a01-4c97-b330-602a23c29e68"/> </h2>
 
 <h3> Qui sommes nous ? Who are we? </h3>
 
