@@ -13,7 +13,7 @@ EFREI 3D is a student-run association located at EFREI Paris that brings togethe
 <h3>Où nous trouver ?</h3>
 <p>
      
-    <a href="https://www.efrei3d.fr/" target="_blank">
+    <a target="_blank" href="https://www.efrei3d.fr/">
         <img align="center" alt="Website" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/website.png"/></a>
      
     <a href="https://www.linkedin.com/company/efrei-3d/" target="_blank">
