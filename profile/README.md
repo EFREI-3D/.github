@@ -30,19 +30,19 @@ EFREI 3D is a student-run association located at EFREI Paris that brings togethe
 <h3>Quels outils utilisons nous ?</h3>
 <p>
      <a href="https://blender.org" target="_blank">
-        <img align="center" alt="Blender" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/blender.png"/></a>
+         <img align="center" alt="Blender" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/blender.png"/></a>
      
-        <img align="center" alt="SolidWorks" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/solidworks.png"/>
+         <img align="center" alt="SolidWorks" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/solidworks.png"/>
      
-        <img align="center" alt="Autodesk Fusion360" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/autodesk-fusion360.png"/>
+         <img align="center" alt="Autodesk Fusion360" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/autodesk-fusion360.png"/>
      
-        <img align="center" alt="Unreal Engine" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/unreal-engine.png"/>
+         <img align="center" alt="Unreal Engine" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/unreal-engine.png"/>
      
-        <img align="center" alt="Adobe Creative Suite" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/adobe-creative-suite.png"/>
+         <img align="center" alt="Adobe Creative Suite" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/adobe-creative-suite.png"/>
      
-        <img align="center" alt="Davinci Resolve" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/davinci-resolve.png"/>
+         <img align="center" alt="Davinci Resolve" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/davinci-resolve.png"/>
      
-        <img align="center" alt="FL Studio" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/fl-studio.png"/>
+         <img align="center" alt="FL Studio" width="36px" src="https://raw.githubusercontent.com/EFREI-3D/.github/main/profile/pictures/fl-studio.png"/>
 </p>
 <br>
 <br>
